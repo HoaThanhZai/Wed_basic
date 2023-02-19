@@ -1,0 +1,21 @@
+body{
+    background : linear-gradient(to right, blue,green,red);
+}
+.main{
+    font-family: Arial;
+    font-size: 200%;
+    color: white;
+    margin-left: 53px;
+    margin-top: 63px;
+}
+
+h1:hover{
+    color: blue;
+    font-size: 90%;
+}
+h1:visited{
+    color: red;
+}
+h1:active{
+    color: yellow;
+}
